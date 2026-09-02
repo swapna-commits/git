@@ -1,0 +1,32 @@
+[33mcommit d258eaafb69d615f7ae2994bd4981ee50954af55[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/newfeature[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 05481c4 c02f287
+Author: swapna-commits <swapnasbackupdata@gmail.com>
+Date:   Wed Sep 2 07:22:31 2026 +0530
+
+    Merge pull request #1 from swapna-commits/feature
+    
+    Feature
+
+[33mcommit c02f2875637ddb0fb0165367d33ce101b7115dce[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m
+Author: Swapnasdemo <swapnasbackupdata@gmail.com>
+Date:   Wed Sep 2 07:16:06 2026 +0530
+
+    new add feature
+
+[33mcommit 04f5e1fb5d58c7c3898d04875905b6329b7a1de3[m
+Author: Swapnasdemo <swapnasbackupdata@gmail.com>
+Date:   Wed Sep 2 06:53:00 2026 +0530
+
+    update readme
+
+[33mcommit 05481c4212657a5342b70cd5f02e23055bddb63a[m
+Author: Swapnasdemo <swapnasbackupdata@gmail.com>
+Date:   Tue Sep 1 07:06:06 2026 +0530
+
+    intial commit
+
+[33mcommit 9a4c70677d61db27857780dbe3c2bcf7679f3512[m
+Author: Swapnasdemo <swapnasbackupdata@gmail.com>
+Date:   Tue Sep 1 07:04:01 2026 +0530
+
+    readme
